@@ -16,7 +16,7 @@
 &nbsp;
 
 ### [Contact Info](#contact-info)
-- <a mailto="aberg2n@outlook.com">email</a>
+- [outlook (email)](mailto:aberg2n@outlook.com)
 
 &nbsp;
 
