@@ -5,8 +5,7 @@
 - 👋 Hi, I’m @aberg2n.
 - 👀 I’m interested in learning new concepets and technologies.
 - 🏫 I'm currenly a student at Salem Sate University.
-- 💞️ I’m looking to collaborate on: anything! see my [contact-info](#contact-info)
-- 📫 How to reach me ...
+- 💞️ I’m looking to collaborate on: anything! (see my [contact-info](#contact-info))
 - 😄 Pronouns: he/him
 
 <!-- ===================================  -->
