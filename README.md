@@ -16,6 +16,7 @@
 
 ### [Contact Info](#contact-info)
 - [outlook (email)](mailto:aberg2n@outlook.com)
+- [Discord (@aberg2n)](discord.com/login)
 
 &nbsp;
 
